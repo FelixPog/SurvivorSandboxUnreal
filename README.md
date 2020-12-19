@@ -1,45 +1,44 @@
 # SurvivorSandboxUnreal
 
-## What is it ?
+## Project purpose
 
-Trello :
+I use this project as a sandox to acquire more skills and try new things on Unreal Engine.
 
-Features in the game :
+
+## Future features
+
+I plane new features when i have an idea, a need or just want to test some Unreal Engine features.
+
+I use Trello for task management : [Board acces](https://trello.com/b/ZdMgQcs3/survival-sandbox)
+
+## Trello architecture
+
+- __TODO__ :  Tasks not start
+- __ONGOING__ :  Tasks I am working on
+- __PRE PROD__ : Finished tasks but not tested
+- __PROD__ : Finished and tested tasks
 
 ## Branch architecture
 
- - main
- - preprod
- - dev
+ - __main__ : Finished and tested features 
+ - __preprod__ : Finished features needing test
+ - __dev__ : Features I am working on
 
-## Features to implement on the future
-
-This project does not have a real end point. I plane new features when i have an idea or just want to test some Unreal Engine features.
-
-I use Trello for my task management and the board is public
-
-[Board acces](https://trello.com/b/ZdMgQcs3/survival-sandbox)
-
-TODO are task not start at all
-ONGOING are task I'm working on
-PRE PROD are finished tasks push on prepod branch 
-PROD are finished tasks push on main
 
 ## Assets
 
-I use asset i can find free on the Epic Games market. I will update the list under often : 
+I use free assets from Epic Games market :
 
-- Animation Starter Pack by Epic Games
+- [Animation Starter Pack]() by __Epic Games__
 
 
-Licence :
+##Licence :
 
 This project is under a GNU GENERAL PUBLIC LICENSE
 
 ##Contact : 
 
-felix.pognard@outlook.com
-https://www.linkedin.com/in/f%C3%A9lix-pognard-637ba413a/
+<felix.pognard@outlook.com>
+Linkedin : [Felix Pognard](https://www.linkedin.com/in/f%C3%A9lix-pognard-637ba413a/)
 
-Engine Version :
 
